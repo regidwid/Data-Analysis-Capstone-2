@@ -14,9 +14,6 @@ Analysis yang dibuat berdasarkan data dummy yang diasumsikan sebagai CloudAxis S
 7. Ubah path file menjadi path sesuai lokasi penyimpanan file masing-masing.
 8. Run setiap cell yang ada.
 9. Selamat Mencoba!
----
-# Data Visualisasi Bisa Juga Diakses Di:
-https://public.tableau.com/app/profile/regi.dwi.darmawan/viz/JCDS-0808-002-RegiDwiDarmawan-Caps2/HomePage?publish=yes
 
 ---
 # Kesimpulan
@@ -82,6 +79,11 @@ Ekspansi Pasar: Kembangkan segmen SMB dan Enterprise, serta wilayah APJ dan LATA
 Optimalkan Strategi Promo: Gunakan diskon terarah, bundling, dan seasonal promo untuk meningkatkan penjualan tanpa mengorbankan margin.
 Perbaiki Regulasi Harga: Tetapkan harga dasar dan Minimum Order Quantity (MOQ) dibeberapa transaksi jika menggunakan promo khusus untuk meminimalkan kerugian.
 Dengan implementasi rekomendasi ini, perusahaan dapat meningkatkan profitabilitas, memperluas pasar, dan mengoptimalkan strategi penjualan.
+
+---
+
+# Data Visualisasi Bisa Juga Diakses Di:
+https://public.tableau.com/app/profile/regi.dwi.darmawan/viz/JCDS-0808-002-RegiDwiDarmawan-Caps2/HomePage?publish=yes
 
 ---
 # Author
