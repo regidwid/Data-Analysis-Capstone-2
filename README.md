@@ -78,6 +78,15 @@ File Analysis:
 
 ---
 
+# Tools Yang Digunakan
+1. Microsoft Visual Studio Code, Jupyter Notebook
+2. Programming Language: Python (Pandas, Numpy, SciPy)
+3. Visualisasi: Seaborn, Matplotlib
+4. Dashboard interaktif: Tableau
+5. Presentation: Canva
+
+---
+
 # Langkah Untuk Dapat Menjalankan Kode di Notebook
 1. Install Python
 2. Install VSCode
