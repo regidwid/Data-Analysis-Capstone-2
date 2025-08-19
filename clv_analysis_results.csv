@@ -1,0 +1,66 @@
+Metric,Value,Type,Customer,Rank,CLV Segment,Formatted Value
+Average Purchase Value,458.61466566180883,Overall,,,,458.61
+Purchase Frequency,50.5959595959596,Overall,,,,50.60
+Customer Value,23204.0490939394,Overall,,,,"23,204.05"
+Average Customer Lifespan,3.0,Overall,,,,3.00
+Estimated CLV,69612.14728181821,Overall,,,,"69,612.15"
+CLV,167157.63,Top 10,Anthem,1.0,,"167,157.63"
+CLV,131679.1272,Top 10,Ford Motor,2.0,,"131,679.13"
+CLV,128712.501,Top 10,Allianz,3.0,,"128,712.50"
+CLV,123767.8413,Top 10,Bank of America Corp.,4.0,,"123,767.84"
+CLV,123661.2564,Top 10,Valero Energy,5.0,,"123,661.26"
+CLV,121080.489,Top 10,Lowes,6.0,,"121,080.49"
+CLV,120979.03199999999,Top 10,Tyson Foods,7.0,,"120,979.03"
+CLV,119824.92,Top 10,Allstate,8.0,,"119,824.92"
+CLV,117704.283,Top 10,AmerisourceBergen,9.0,,"117,704.28"
+CLV,117251.37,Top 10,BMW,10.0,,"117,251.37"
+Profit-based CLV,17859.6114,Top 10,Anthem,1.0,,"17,859.61"
+Profit-based CLV,12032.2986,Top 10,Ford Motor,2.0,,"12,032.30"
+Profit-based CLV,16595.6502,Top 10,Allianz,3.0,,"16,595.65"
+Profit-based CLV,19349.5662,Top 10,Bank of America Corp.,4.0,,"19,349.57"
+Profit-based CLV,30925.8891,Top 10,Valero Energy,5.0,,"30,925.89"
+Profit-based CLV,23812.4745,Top 10,Lowes,6.0,,"23,812.47"
+Profit-based CLV,5071.7325,Top 10,Tyson Foods,7.0,,"5,071.73"
+Profit-based CLV,-8388.880500000003,Top 10,Allstate,8.0,,"-8,388.88"
+Profit-based CLV,12608.647200000001,Top 10,AmerisourceBergen,9.0,,"12,608.65"
+Profit-based CLV,17844.297899999998,Top 10,BMW,10.0,,"17,844.30"
+CLV,16208.706,Bottom 10,Gazprom,1.0,,"16,208.71"
+CLV,18397.563000000002,Bottom 10,Citigroup,2.0,,"18,397.56"
+CLV,19899.410999999996,Bottom 10,Safeway,3.0,,"19,899.41"
+CLV,21302.787000000004,Bottom 10,Berkshire Hathaway,4.0,,"21,302.79"
+CLV,24519.678,Bottom 10,Tesco,5.0,,"24,519.68"
+CLV,25913.139,Bottom 10,General Electric,6.0,,"25,913.14"
+CLV,28885.293,Bottom 10,Petrobras,7.0,,"28,885.29"
+CLV,31748.424000000003,Bottom 10,Exxon Mobil,8.0,,"31,748.42"
+CLV,32495.476500000004,Bottom 10,Goldman Sachs Group,9.0,,"32,495.48"
+CLV,33195.1746,Bottom 10,Banco Santander,10.0,,"33,195.17"
+Profit-based CLV,-41.908500000000096,Bottom 10,Gazprom,1.0,,-41.91
+Profit-based CLV,1422.9962999999998,Bottom 10,Citigroup,2.0,,"1,423.00"
+Profit-based CLV,1417.3745999999996,Bottom 10,Safeway,3.0,,"1,417.37"
+Profit-based CLV,2438.1933000000004,Bottom 10,Berkshire Hathaway,4.0,,"2,438.19"
+Profit-based CLV,5069.1323999999995,Bottom 10,Tesco,5.0,,"5,069.13"
+Profit-based CLV,2061.4536,Bottom 10,General Electric,6.0,,"2,061.45"
+Profit-based CLV,552.2876999999999,Bottom 10,Petrobras,7.0,,552.29
+Profit-based CLV,681.3393000000001,Bottom 10,Exxon Mobil,8.0,,681.34
+Profit-based CLV,7549.4094,Bottom 10,Goldman Sachs Group,9.0,,"7,549.41"
+Profit-based CLV,1813.4316000000001,Bottom 10,Banco Santander,10.0,,"1,813.43"
+index,0.0,Segment Analysis,,,Low,0.00
+index,1.0,Segment Analysis,,,Medium,1.00
+index,2.0,Segment Analysis,,,High,2.00
+index,3.0,Segment Analysis,,,Very High,3.00
+Customer Count,25.0,Segment Analysis,,,Low,25.00
+Customer Count,25.0,Segment Analysis,,,Medium,25.00
+Customer Count,24.0,Segment Analysis,,,High,24.00
+Customer Count,25.0,Segment Analysis,,,Very High,25.00
+CLV,34578.495972000004,Segment Analysis,,,Low,"34,578.50"
+CLV,57649.459188,Segment Analysis,,,Medium,"57,649.46"
+CLV,75973.2568375,Segment Analysis,,,High,"75,973.26"
+CLV,110501.821512,Segment Analysis,,,Very High,"110,501.82"
+Profit-based CLV,4163.207928,Segment Analysis,,,Low,"4,163.21"
+Profit-based CLV,5605.091544,Segment Analysis,,,Medium,"5,605.09"
+Profit-based CLV,9213.849525,Segment Analysis,,,High,"9,213.85"
+Profit-based CLV,15754.047588,Segment Analysis,,,Very High,"15,754.05"
+Purchase Frequency,33.24,Segment Analysis,,,Low,33.24
+Purchase Frequency,45.44,Segment Analysis,,,Medium,45.44
+Purchase Frequency,55.125,Segment Analysis,,,High,55.12
+Purchase Frequency,68.76,Segment Analysis,,,Very High,68.76
