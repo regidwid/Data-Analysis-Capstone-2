@@ -9,7 +9,7 @@ Analysis yang dibuat berdasarkan data dummy yang diasumsikan sebagai CloudAxis S
 2. Install VSCode
 3. Open VSCode
 4. Pilih open file
-5. Open file jupyter (Notebook) yang sudah di download sebelumnya
+5. Open file .ipynb yang sudah di download sebelumnya
 6. Install library yang diperlukan
 7. Ubah path file menjadi path sesuai lokasi penyimpanan file masing-masing.
 8. Run setiap cell yang ada.
