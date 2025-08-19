@@ -17,3 +17,10 @@ Analysis yang dibuat berdasarkan data dummy yang diasumsikan sebagai CloudAxis S
 ---
 # Data Visualisasi Bisa Juga Diakses Di:
 https://public.tableau.com/app/profile/regi.dwi.darmawan/viz/JCDS-0808-002-RegiDwiDarmawan-Caps2/HomePage?publish=yes
+
+---
+# Author
+
+Regi Dwi Darmawan
+kritik dan saran dapat sangat membantu
+kirimkan melalui regi.dwi21.rd@gmail.com
