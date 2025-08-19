@@ -164,6 +164,11 @@ Perbaiki Regulasi Harga: Tetapkan harga dasar dan Minimum Order Quantity (MOQ) d
 Dengan implementasi rekomendasi ini, perusahaan dapat meningkatkan profitabilitas, memperluas pasar, dan mengoptimalkan strategi penjualan.
 
 ---
+# Presentation Link
+
+https://www.canva.com/design/DAGwbk-5zcc/kSA9gy992wY9yTl-zEAMFw/edit
+
+---
 
 # Data Visualisasi Bisa Juga Diakses Di:
 https://public.tableau.com/app/profile/regi.dwi.darmawan/viz/JCDS-0808-002-RegiDwiDarmawan-Caps2/HomePage?publish=yes
