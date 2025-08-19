@@ -4,6 +4,23 @@ Analysis yang dibuat berdasarkan data dummy yang diasumsikan sebagai CloudAxis S
 ---
 # Harap Download Terlebih Dahulu Semua File Yang Tersedia
 ---
+
+# Data Yang Digunakan
+Data yang digunakan merupaka data dummy yang terlampir:
+
+- SaaS-Sales.csv
+- Saas-Sales-Cleaned.csv
+
+File Analysis:
+
+- JCDS-0808-002-RegiDwiDarmawan _Caps2.ipynb (Jupyter Notebook)
+- Visualisasi : JCDS-0808-002-RegiDwiDarmawan  - Caps2.twbx
+- SaaS-Sales.csv (Raw Data)
+- Saas-Sales-Cleaned.csv (Cleaned Data)
+- clv_analysis_result.csv (Additional)
+
+---
+
 # Langkah Untuk Dapat Menjalankan Kode di Notebook
 1. Install Python
 2. Install VSCode
