@@ -5,6 +5,63 @@ Analysis yang dibuat berdasarkan data dummy yang diasumsikan sebagai CloudAxis S
 # Harap Download Terlebih Dahulu Semua File Yang Tersedia
 ---
 
+# BACKGROUND
+CloudAxis Solutions Inc. adalah perusahaan SaaS (Software as a Service) multinasional yang berkantor pusat di New York (AS). Didirikan pada tahun 2011, CloudAxis fokus menyediakan berbagai platform software terpadu untuk pengelolaan data, pemasaran digital, solusi keuangan bagi perusahaan lintas industri dan masih banyak lagi.
+
+SaaS (Software as a Service) adalah model penyediaan perangkat lunak berbasis cloud di mana aplikasi dihosting oleh penyedia layanan dan diakses oleh pengguna melalui internet. Pengguna tidak perlu menginstal, mengelola, atau memperbarui perangkat lunak secara mandiri karena semuanya dikelola oleh penyedia SaaS.
+
+NOTE: Pada kasus kali ini data yang akan dianalisis adalah data histori penjualan yang dimiliki oleh CloudAxis Solutions Inc. dimana berikut adalah hal yang akan dianalisis:
+
+1. Profit.
+2. Sales.
+3. Discount.
+4. Order Date.
+5. Customer.
+6. Subregion.
+7. Region.
+8. Quantity.
+
+data mentah ini akan dicek terlebih dahulu berkaitan dengan distribusi data, data missing, data outlier, penambahan dan/atau pengurangan kolom, sehingga menjadi data yang bersih dan siap untuk diolah agar hasil dari analisis bisa sesuai dengan yang diinginkan.
+
+Problem Statement : 
+1. Bagaimana perusahaan dapat meningkatkan profit dan sales?
+2. Bagaimana penerapan diskon yang sudah berjalan?
+3. Bagaimana cara mengoptimalkan customer yang ada?
+4. Apakah ada ruang untuk melakukan ekspansi?
+
+---
+
+# Goal
+
+Tujuan utama sebagai Data Analyst adalah untuk memberikan insights kepada perusahaan terhadap masalah yang terjadi dan agar dapat mengoptimalisasi kinerja serta meningkatkan profit melalui insights dan rekomendasi langkah yang dihasilkan dari analisis data yang dilakukan.
+
+---
+
+# Stake Holder
+
+Stake Holder untuk hasil analisi data ini ialah Manajemen CloudAxis, yang diantaranya:
+
+1. Business Development
+Bertanggung jawab atas strategi penetapan harga, kebijakan diskon, dan peningkatan profit.
+
+Membutuhkan analisis untuk mengevaluasi dampak diskon terhadap profit dan menyesuaikan harga produk.
+
+2. Tim Penjualan (Sales Team)
+Regional Sales Manager (EMEA, AMER, APAC): Memantau performa masing-masing wilayah.
+
+Account Executive: Memahami perilaku dan kebutuhan customer mereka.
+
+3. Tim Produk
+Product Manager: Melihat produk mana yang paling laris, margin profit, dan feedback pasar.
+
+4. Quality Assurance (QA):
+Dengan adanya temuan profit yang negatif tim ini perlu mengetahui dan memastikan barang layak, memenuhi standard dan sesuai dengan demand market untuk memastikan juga bahwa profit negatif terjadi bukan serta merta kesalahan produksi.
+
+5. Customer Support & Services
+Dengan kemungkinan berdiskusi dengan customer support and service dapat memberi wawasan tentang POV dari customer dan jika ada perubahan tim bisa menginfokan dengan baik kepada customer untuk menjaga informasi tersampaikan dengan baik dan menjaga hubungan baik dengan customer.
+
+---
+
 # Data Yang Digunakan
 Data yang digunakan merupaka data dummy yang terlampir:
 
